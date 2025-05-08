@@ -1,5 +1,5 @@
 name: Deploy to GitHub Pages with bun
-
+# i was quite stuck/confused, so i did look at the solutions branch for clarity
 on:
   push:
     branches: [ main ]
