@@ -2,7 +2,7 @@ name: Deploy to GitHub Pages with bun
 
 on:
   push:
-    branches: [ solution ]
+    branches: [ main ]
   workflow_dispatch:
   
 permissions:
